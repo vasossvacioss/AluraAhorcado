@@ -1,0 +1,188 @@
+*{
+    font-family: 'Comic Neue', cursive;
+    
+}
+
+
+.nav{
+    background-color:#C84B31 ;
+    text-align: center;  
+    margin-bottom: 50px;  
+    height: 50px;
+}
+.nav-link{
+    font-size: 15px;
+    font-family: 'Comic Neue', cursive;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+
+    .container{
+        background-color: #C84B31;
+        height: 100px;
+        align-items: center;
+        text-align: justify;
+        padding-top: 10px;
+        
+    }
+    .titulo{
+        font-family: 'Comic Neue', cursive;
+        color: #fff1ef;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    .btn1{
+        margin-top: 0px;
+        margin-left: 100px;
+        background-color:#2D4263 ;
+        border-radius: 10px;
+        height: 50px;
+    }
+    .play{
+        font-size: 15px;
+        color: #fff1ef;
+    }
+    .container2{
+        height: 100px;
+        background-color: #538305;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        padding-top: 30px;
+        
+       
+    }
+
+    .invisible{
+    
+        color: #fff1ef;
+        margin-top: 0px;
+        margin-left: 0px;
+        font-size: 10px;
+        
+      
+    }
+
+    .text-input{
+        margin-left: 0px;
+        margin-bottom: 15px;
+        
+        height: 30px;
+        background-color:#ECDBBA;
+        border-radius: 5px;
+    }
+    .btn2{
+        background-color:#2D4263 ;
+        border-radius: 10px;
+        height: 40px;
+        border: solid white;
+        margin-top: 15px;
+        
+
+    }
+
+    .agregarp{
+        
+        font-size: 15px;
+        color: #fff1ef;
+
+    }
+    #ahorcado{
+        padding-left: 50px;
+    }
+
+    @media (min-width: 780px){
+
+        body{
+            background-color: #191919;
+        }
+        
+        
+        .nav{
+            background-color:#C84B31 ;
+            text-align: center;  
+            margin-bottom: 50px;  
+            height: 100px;
+        }
+        .nav-link{
+            font-size: 30px;
+            font-family: 'Comic Neue', cursive;
+            margin-left: 40px;
+           padding-top: 50px;
+        }
+        
+        
+            .container{
+                background-color: #C84B31;
+                height: 100px;
+                align-items: center;
+                text-align: justify;
+                padding-top: 10px;
+                
+            }
+            .titulo{
+                font-family: 'Comic Neue', cursive;
+                color: #fff1ef;
+                padding-left: 400px;
+                font-size: 40px;
+            }
+            .btn1{
+                margin-top: 250px;
+                margin-left: 550px;
+                background-color:#2D4263 ;
+                border-radius: 10px;
+                height: 50px;
+            }
+            .play{
+                font-size: 15px;
+                color: #fff1ef;
+            }
+            .container2{
+                height: 100px;
+                background-color: #538305;
+                margin-top: 100px;
+                margin-bottom: 100px;
+                padding-top: 30px;
+                
+               
+            }
+        
+            .invisible{
+            
+                color: #fff1ef;
+                margin-top: 30px;
+                margin-left: 90px;
+                font-size: 30px;
+                
+              
+            }
+        
+            .text-input{
+                margin-left: 450px;
+                margin-bottom: 10px;
+                
+                height: 30px;
+                background-color:#ECDBBA;
+                border-radius: 5px;
+            }
+            .btn2{
+                background-color:#2D4263 ;
+                border-radius: 10px;
+                height: 40px;
+                border: solid white;
+                margin-top: 20px;
+                
+        
+            }
+        
+            .agregarp{
+                
+                font-size: 15px;
+                color: #fff1ef;
+        
+            }
+            #ahorcado{
+                padding-left: 50px;
+            }
+        
+        }
